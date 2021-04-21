@@ -1,3 +1,19 @@
+@font-face {
+    font-family: brandregular;
+    src: url(Brand.otf)
+
+}
+
 p{
     color: blue;
+    font-family: brandregular;
+}
+
+a{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(17, 235, 46);
 }
